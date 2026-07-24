@@ -1,27 +1,41 @@
 # 📊 HR Analytics Dashboard
 
-Interactive Power BI dashboard that provides insights into employee performance, workforce demographics, and HR metrics for data-driven decision-making.
+Interactive Power BI dashboard analyzing workforce metrics and HR insights.
 
 ## Dashboard Preview
 
-![HR Dashboard](HR Dashboard.png)
+![HR Analytics Dashboard](HR Dashboard.png)
 
-## Key Insights
+## Project Overview
 
-- Employee distribution by department, gender, and age
+This dashboard provides key HR insights to help monitor employee performance, workforce trends, and organizational metrics.
+
+## Key Metrics
+
+- Total Employees
+- Attrition Rate
+- Average Age
+- Average Salary
+- Department-wise Employees
+- Gender Distribution
+
+## Dashboard Features
+
+- Employee overview
 - Attrition analysis
-- Salary and performance analysis
-- Interactive filters for dynamic reporting
-- HR KPI monitoring
+- Department analysis
+- Gender analysis
+- Age distribution
+- Interactive slicers
 
 ## Tools Used
 
 - Power BI
 - Power Query
 - DAX
-- Microsoft Excel
+- Excel
 
-## Files
+## Files Included
 
 - HR Analytics Dashboard.pbix
 - HR Employee Data.xlsx
