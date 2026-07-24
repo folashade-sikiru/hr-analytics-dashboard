@@ -5,6 +5,7 @@ Interactive Power BI dashboard analyzing workforce metrics and HR insights.
 ## Dashboard Preview
 
 ![HR Analytics Dashboard](HR Dashboard.png)
+![HR Analytics Dashboard](./HR%20Dashboard.png)
 
 ## Project Overview
 
